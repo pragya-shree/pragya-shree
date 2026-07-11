@@ -4,9 +4,9 @@
 AI & Data Engineering Student • Machine Learning Enthusiast • Software Developer
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=1000&color=4F9DFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;AI+%26+Data+Engineering+Student;Machine+Learning+Enthusiast;Software+Developer;Competitive+Programmer;Always+Learning+Something+New+🚀" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/pragya-shree">
@@ -53,13 +53,13 @@ AI & Data Engineering Student • Machine Learning Enthusiast • Software Devel
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=pragya-shree&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragya-shree&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p> -->
 
 <p align="center">
 
@@ -67,15 +67,14 @@ AI & Data Engineering Student • Machine Learning Enthusiast • Software Devel
 
 </p>
 
----
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
-<p align="center">
+ <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=pragya-shree&theme=tokyonight&no-frame=true&margin-w=15"/>
 
-</p>
+</p> -->
 
 ---
 
@@ -132,8 +131,8 @@ AI & Data Engineering Student • Machine Learning Enthusiast • Software Devel
 
 ---
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://raw.githubusercontent.com/pragya-shree/pragya-shree/output/snake.svg"/>
 
-</p>
+</p> -->
