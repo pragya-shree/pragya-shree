@@ -12,9 +12,9 @@ AI & Data Engineering Student • Machine Learning Enthusiast • Software Devel
   <a href="https://github.com/pragya-shree">
     <img src="https://komarev.com/ghpvc/?username=pragya-shree&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   </a>
-  <a href="https://github.com/pragya-shree?tab=followers">
+  <!-- <a href="https://github.com/pragya-shree?tab=followers">
     <img src="https://img.shields.io/github/followers/pragya-shree?logo=github&style=for-the-badge" />
-  </a>
+  </a> -->
 </p>
 
 ---
